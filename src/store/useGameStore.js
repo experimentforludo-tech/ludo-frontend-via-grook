@@ -44,4 +44,4 @@ export const useGameStore = create((set) => ({
       errorMessage: null,
       winner: null
     })
-}));\n
+}));
