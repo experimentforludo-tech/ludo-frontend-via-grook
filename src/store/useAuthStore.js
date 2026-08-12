@@ -23,4 +23,4 @@ export const useAuthStore = create((set) => ({
     localStorage.removeItem('ludo_user');
     set({ user: null, token: null });
   }
-}));\n
+}));
