@@ -113,4 +113,4 @@ export default function LudoBoard({ players, pawns, validMoves, myColor, onPawnT
         )}
     </div>
   );
-}\n
+}
