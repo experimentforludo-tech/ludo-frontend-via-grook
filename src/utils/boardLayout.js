@@ -50,4 +50,4 @@ export function getPawnCell(color, steps) {
 
 export function baseCell(color, baseIndex) {
   return BASE_COORDINATES[color][baseIndex];
-}\n
+}
