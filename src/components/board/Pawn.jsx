@@ -42,4 +42,4 @@ function areEqual(prev, next) {
   );
 }
 
-export default memo(Pawn, areEqual);\n
+export default memo(Pawn, areEqual);
