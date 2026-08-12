@@ -24,4 +24,4 @@ function Dice({ value, isRolling, canRoll, onRoll, colorClass }) {
   );
 }
 
-export default memo(Dice);\n
+export default memo(Dice);
