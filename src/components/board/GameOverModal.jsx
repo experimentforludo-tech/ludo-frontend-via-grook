@@ -23,4 +23,4 @@ export default function GameOverModal({ winner, myColor }) {
       </div>
     </div>
   );
-}\n
+}
